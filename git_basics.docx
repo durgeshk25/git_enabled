@@ -1,0 +1,22 @@
+There are 3 Phases of git:
+1. Working directory (Untracked)
+2. Staging Area (Added)
+3. Repository (Commit)
+
+Commands used:
+1. git status:- to check changes made in Working directory.(Untracked)
+
+2. git add filename.extension:- to add changes of a file to Staging Area.(Added)
+
+3. git status:- to check whether filename is added to Staging Area or not.
+
+4. git diff --staged:- actual changes made from Working directory to Staging Area.
+
+5. git commit -m "this change is made":- name is given that suits to the changes
+   made and that change is commited(shifted from Staging Area to Repository)
+
+6. git log:- record of everything that is commited inside the Repository. 
+
+7. git add . :- to add changes of all files to Staging Area.
+  
+
