@@ -18,5 +18,15 @@ Commands used:
 6. git log:- record of everything that is commited inside the Repository. 
 
 7. git add . :- to add changes of all files to Staging Area.
-  
+
+8. git remote add anynameinremote https://github.com/durgeshk25/git_enabled.git
+
+9. git remote -v :- list anynameinremote
+
+10. git push -u anynameinremote main :- push to remote for the 1st time
+
+11. git branch -v :- list all branches in local
+
+
+
 
